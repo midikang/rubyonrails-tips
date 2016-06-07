@@ -431,4 +431,8 @@ Solution
     puts "I'm a refactoring master!"
 end
 ```
+Another Solution
+```
+3.times {puts "I'm a refactoring master!"}
+```
 
