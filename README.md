@@ -1,5 +1,8 @@
 # Midi's Ruby on Rails tips
 
+## Ruby docs
+[Ruby docs](http://ruby-doc.org/core-1.9.3/Hash.html)
+
 ## Rails online API docs
 [API Docs](http://api.rubyonrails.org)
 
