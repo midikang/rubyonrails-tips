@@ -16,3 +16,12 @@ Free, interactive tutorials to help you discover Ruby idioms, in your browser!
 - [railstutorial Micheal Hartl](https://www.railstutorial.org/book) |In Progress|
 
 ## Awesome ruby
+
+
+## Rails Tips
+pack gems to vendor folder
+```
+bundle pack
+```
+
+http://rubyer.me/blog/134/
